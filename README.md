@@ -12,13 +12,15 @@
 
 **INFTY**, a flexible and user-friendly optimization engine tailored for Continual AI. INFTY includes a suite of built-in optimization algorithms that directly tackle core challenges (e.g., the stability–plasticity dilemma, generalization) in Continual AI. And INFTY supports plug-and-play and theoretical analysis utilities, compatible with: i) various Continual AI, e.g., PTM-based CL, and Continual PEFT, Continual Diffusion, and Lifelong RL etc. ii) diverse models, e.g., ResNet, ViT, CLIP, LLM, and Diffusion etc. INFTY provides a unified optimization solution in Continual AI, can serve as infrastructure for broad deployment.
 
-<div>
-    <video width="320" height="240" controls>
-        <source src="https://github.com/hi-fengtao/temp_infty/blob/main/img/demo.mov" >
-    </video>
+<div align="center">
+<img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/demo.gif" alt="animated" width='600'/>
 </div>
+<div align="center">
+    Trained for 18s on a 2020 MacBook Pro (M1) using <span style="color:#7DB9B6">RLtools</span>.
+</div>
+<br>
 
 <div align="center">
-<img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/demo.mov" alt="animated" height='300'/>
+<img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/demo.gif" alt="animated" height='1000'/>
 </div>
 </br>
