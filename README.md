@@ -1,7 +1,7 @@
 ![](docs/source/_static/skscope.png)
 
 <div align="center">
-<img src="https://github.com/hi-fengtao/temp_infty/img/logo.jpg"/ width=500>  
+<img src="https://github.com/hi-fengtao/temp_infty/img/logo.png"/ width=500>  
 </div>
 
 <div align="center">
