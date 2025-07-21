@@ -6,17 +6,8 @@
 
 
 <div align="center">
-
-<span style="font-weight:bold; font-size:24px;">  
-"The road to AGI is continual, <span style="color:#ff6600;">INFTY</span> paves the way."  
-</span>
-
-<br />
-
-<span style="font-weight:bold; font-size:18px; color:#555;">  
-— INFTY × AGI  
-</span>
-
+<strong> ✨ "The road to AGI is continual, INFTY paves the way." ✨ </strong><br />
+<strong><em>— INFTY × AGI</em></strong>
 </div>
 
 -----------
