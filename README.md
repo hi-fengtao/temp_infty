@@ -148,11 +148,13 @@ infty_plot.visualize_trajectory(optim="c_flat")
 ```
 
 # Citation
-
+xxxx
 
 # Acknowledgements
+xxxx
 
 # Contact us
+If you have any questions, feel free to open an issue or contact the corresponding author: Tao Feng (fengtao.hi@gmail.com).
 
 # License
 This project is licensed under the MIT License.
