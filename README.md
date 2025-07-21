@@ -39,9 +39,12 @@
 - [Features](#Features)
 - [Algorithms](#Algorithms)
 - [Installation](#Installation)
+  - [Using pip](##Using-pip)
+  - [Developer installation](##Developer-installation)
 - [Quick start](#Quick-start)
 - [Custom usage](#Custom-usage)
-- [Visualization plots](#Visualization-plots)
+  - [Optimizers](##Optimizers)
+  - [Visualization plots](##Visualization-plots)
 - [Citation](#Citation)
 - [Acknowledgements](#Acknowledgements)
 - [Contact us](#Contact-us)
@@ -93,6 +96,7 @@ python main.py --config=exps/memo_scr.json --inftyopt=pcgrad
 
 
 # Custom usage
+## Optimizers
 Step 1. Wrap your base optimizer with an INFTY optimizer
 ```
 from infty import optim as infty_optim
@@ -128,7 +132,7 @@ losses += sum(loss_list)
 losses_clf += loss_list[0]
 ```
 
-# Visualization plots
+## Visualization plots
 INFTY includes built-in visualization tools for inspecting optimization behavior:
 - [x] **Loss Landscape**: visualize sharpness around local minima
 - [x] **Hessian ESD**: curvature analysis via eigenvalue spectrum density
