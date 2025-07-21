@@ -2,7 +2,25 @@
 <img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/test7.png"/ width=600>  
 </div>
 
+
+
+
+<div align="center">
+
+<span style="font-weight:bold; font-size:24px;">  
+"The road to AGI is continual, <span style="color:#ff6600;">INFTY</span> paves the way."  
+</span>
+
+<br />
+
+<span style="font-weight:bold; font-size:18px; color:#555;">  
+— INFTY × AGI  
+</span>
+
+</div>
+
 -----------
+
 
 <!--
 <div align="center">
