@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/test2.png"/ width=600>  
+<img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/test3.png"/ width=600>  
 </div>
 
 -----------
