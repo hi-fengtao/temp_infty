@@ -68,7 +68,7 @@ INFTY has implemented three mainstream algorithms currently,
 
 # Installation
 
-## Using pip (recommended)
+## Using pip
 
 ```bash
 pip install infty
@@ -130,10 +130,10 @@ losses_clf += loss_list[0]
 
 # Visualization plots
 INFTY includes built-in visualization tools for inspecting optimization behavior:
-- **Loss Landscape**: visualize sharpness around local minima
-- **Hessian ESD**: curvature analysis via eigenvalue spectrum density
-- **Conflict Curves**: quantify gradient interference (supports PCGrad, UniGrad, CAGrad)
-- **Optimization Trajectory**: observe optimization directions under gradient shifts with a toy example
+- [x] **Loss Landscape**: visualize sharpness around local minima
+- [x] **Hessian ESD**: curvature analysis via eigenvalue spectrum density
+- [x] **Conflict Curves**: quantify gradient interference (supports PCGrad, UniGrad, CAGrad)
+- [x] **Optimization Trajectory**: observe optimization directions under gradient shifts with a toy example
 ```
 from infty import plot as infty_plot
 
