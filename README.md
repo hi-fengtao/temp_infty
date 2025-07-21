@@ -60,7 +60,7 @@
 - **Utilities**: Built-in tools for theoretical analysis and visualization, facilitating investigation and diagnostic insight into optimization behavior.
 
 # Algorithms
-INFTY has implemented three mainstream algorithms currently,
+INFTY has implemented three mainstream algorithms currently:
 
 | Category           | Optimizers                                                                 |
 |--------------------|----------------------------------------------------------------------------|
