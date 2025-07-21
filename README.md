@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/test2.png"/>  
+</div>
 
 <div align="center">
 <img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/logo.png"/ width=300>  
