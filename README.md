@@ -36,6 +36,18 @@
 # Navigation
 - [Overview](#Overview)
 - [Navigation](#Navigation)
+- [Features](#Features)
+- [Algorithms](#Algorithms)
+- [Installation](#Installation)
+- [Quick start](#Quick-start)
+- [Custom usage](#Custom-usage)
+- [Visualization plots](#Visualization-plots)
+- [Citation](#Citation)
+- [Acknowledgements](#Acknowledgements)
+- [Contact us](#Contact-us)
+- [License](#License)
+
+
 
 # Features
 - **Generality**: Built-in CL–friendly optimization algorithms, supporting a wide range of scenarios, models, methods, and learning paradigms.
@@ -116,7 +128,7 @@ losses += sum(loss_list)
 losses_clf += loss_list[0]
 ```
 
-# Visualization Plots
+# Visualization plots
 INFTY includes built-in visualization tools for inspecting optimization behavior:
 - **Loss Landscape**: visualize sharpness around local minima
 - **Hessian ESD**: curvature analysis via eigenvalue spectrum density
