@@ -10,13 +10,12 @@
 
 -----------
 
-<!--
-<div align="center">
-<img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/logo.png"/ width=300>  
-</div>
--->
+<p align="center">
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](
+  https://github.com/PKU-DAIR/open-box/blob/master/LICENSE)
+</p>
 
 <div align="center">
   <center><h1><span style="color:#7DB9B6">INFTY </span> Engine: An Optimization Toolkit to Support Continual AI</h1></center>
