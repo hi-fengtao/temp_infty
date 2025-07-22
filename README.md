@@ -16,6 +16,8 @@
 </div>
 -->
 
+<a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
+
 <div align="center">
   <center><h1><span style="color:#7DB9B6">INFTY </span> Engine: An Optimization Toolkit to Support Continual AI</h1></center>
 </div>
