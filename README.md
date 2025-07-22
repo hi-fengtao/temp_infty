@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://github.com/hi-fengtao/temp_infty/"><img src="https://img.shields.io/badge/Documentation-Read%20the%20Docs-blue.svg" alt="Documentation"></a>
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)></a>
 </p>
 
 <div align="center">
