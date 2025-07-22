@@ -63,13 +63,6 @@ INFTY has implemented three mainstream algorithms currently:
 <img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/overview.png"/>  
 </div>
 
-| Category           | Optimizers                                                                 |
-|--------------------|----------------------------------------------------------------------------|
-| ✅ Base            | SGD, Adam, AdamW                                                           |
-| ✅ Multi-Objective | PCGrad, UniGrad, CAGrad, OGD, GPM                                          |
-| ✅ Generalization  | SAM, GSAM, GAM, LookSAM, C_Flat, C_Flat++                                  |
-| ✅ BP-Free         | ZeroFlow, Forward-Grad        
-
 # Installation
 
 ## Using pip
