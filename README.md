@@ -4,7 +4,7 @@
 
 
 <div align="center">
-✨ <em>"The road to AGI is continual, INFTY paves the way."<em> ✨ </strong><br />
+✨ <em>"The path to AGI is continual, INFTY paves the way."<em> ✨ </strong><br />
 <em>— INFTY × AGI</em>
 </div>
 
