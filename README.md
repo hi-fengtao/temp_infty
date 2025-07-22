@@ -20,10 +20,8 @@
 </a>
 </p>
 
-## INFTY Engine: An Optimization Toolkit to Support Continual AI
-
 <div align="center">
-  <center><h1>INFTY Engine: An Optimization Toolkit to Support Continual AI</h1></center>
+  <center><h2>INFTY Engine: An Optimization Toolkit to Support Continual AI</h2></center>
 </div>
 
 # What is INFTY?
