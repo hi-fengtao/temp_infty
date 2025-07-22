@@ -6,8 +6,8 @@
 
 
 <div align="center">
-<strong> ✨ "The road to AGI is continual, INFTY paves the way." ✨ </strong><br />
-<strong><em>— INFTY × AGI</em></strong>
+✨ <em>"The road to AGI is continual, INFTY paves the way."<em> ✨ </strong><br />
+<em>— INFTY × AGI</em>
 </div>
 
 -----------
