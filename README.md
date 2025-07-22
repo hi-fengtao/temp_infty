@@ -3,15 +3,12 @@
 </div>
 
 
-
-
 <div align="center">
 ✨ <em>"The road to AGI is continual, INFTY paves the way."<em> ✨ </strong><br />
 <em>— INFTY × AGI</em>
 </div>
 
 -----------
-
 
 <!--
 <div align="center">
@@ -61,6 +58,10 @@
 
 # Algorithms
 INFTY has implemented three mainstream algorithms currently:
+
+<div align="center">
+<img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/overview.png"/>  
+</div>
 
 | Category           | Optimizers                                                                 |
 |--------------------|----------------------------------------------------------------------------|
