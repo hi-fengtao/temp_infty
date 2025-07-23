@@ -4,7 +4,7 @@
 
 
 <div align="center">
-✨ <em>"The path to AGI is continual, INFTY paves the way."<em> ✨ </strong><br />
+✨ <em>"The path to AGI is continual, INFTY paves the way."</em> ✨ </strong><br />
 <em>— INFTY × AGI</em>
 </div>
 
@@ -16,8 +16,7 @@
   <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
   <a href="https://pypi.org/project/numpy/"><img src="https://img.shields.io/pypi/v/numpy.svg?label=numpy" alt="numpy"></a>
   <a href="https://pypi.org/project/matplotlib/"><img src="https://img.shields.io/pypi/v/matplotlib.svg?label=matplotlib" alt="matplotlib"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
-</a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
 </p>
 
 <div align="center">
