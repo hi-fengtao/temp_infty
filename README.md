@@ -67,6 +67,13 @@ INFTY has implemented three mainstream algorithms currently:
 <img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/overview.png"/>  
 </div>
 
+
+# Examples
+CIDM with INFTY
+<div align="center">
+<img src="https://github.com/hi-fengtao/temp_infty/blob/main/img/cidm.png"/>  
+</div>
+
 # Installation
 
 ## Using pip
