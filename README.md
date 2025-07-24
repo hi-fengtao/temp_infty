@@ -38,6 +38,7 @@
 - [Navigation](#Navigation)
 - [Features](#Features)
 - [Algorithms](#Algorithms)
+- [Examples](#Examples)
 - [Installation](#Installation)
   - [Using pip](##Using-pip)
   - [Developer installation](##Developer-installation)
